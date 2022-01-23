@@ -2,3 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
+.font-ibm {
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+.font-montserrat {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.font-cabin {
+    font-family: 'Cabin', sans-serif;
+}
